@@ -1,0 +1,3 @@
+/home/yendry/CLionProjects/TE2-DatosII/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/yendry/CLionProjects/TE2-DatosII/cmake-build-debug/CMakeFiles/TE2_DatosII.dir
+/home/yendry/CLionProjects/TE2-DatosII/cmake-build-debug/CMakeFiles/edit_cache.dir
