@@ -4,9 +4,9 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/yendry/CLionProjects/TE2-DatosII/main.cpp" "/home/yendry/CLionProjects/TE2-DatosII/cmake-build-debug/CMakeFiles/TE2_DatosII.dir/main.cpp.o"
-  "/home/yendry/CLionProjects/TE2-DatosII/src/Client.cpp" "/home/yendry/CLionProjects/TE2-DatosII/cmake-build-debug/CMakeFiles/TE2_DatosII.dir/src/Client.cpp.o"
-  "/home/yendry/CLionProjects/TE2-DatosII/src/WeatherData.cpp" "/home/yendry/CLionProjects/TE2-DatosII/cmake-build-debug/CMakeFiles/TE2_DatosII.dir/src/WeatherData.cpp.o"
+  "/home/yendry/CLionProjects/TE2_DatosII/main.cpp" "/home/yendry/CLionProjects/TE2_DatosII/cmake-build-debug/CMakeFiles/TE2_DatosII.dir/main.cpp.o"
+  "/home/yendry/CLionProjects/TE2_DatosII/src/Client.cpp" "/home/yendry/CLionProjects/TE2_DatosII/cmake-build-debug/CMakeFiles/TE2_DatosII.dir/src/Client.cpp.o"
+  "/home/yendry/CLionProjects/TE2_DatosII/src/WeatherData.cpp" "/home/yendry/CLionProjects/TE2_DatosII/cmake-build-debug/CMakeFiles/TE2_DatosII.dir/src/WeatherData.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
