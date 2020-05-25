@@ -3,4 +3,4 @@ project(TE2_DatosII)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(TE2_DatosII main.cpp src/Client.cpp include/Client.hpp include/Observer.hpp include/Subject.hpp src/WeatherData.cpp include/WeatherData.hpp)
+add_executable(TE2_DatosII Observer/main.cpp Observer/src/Client.cpp Observer/include/Client.hpp Observer/include/Observer.hpp Observer/include/Subject.hpp Observer/src/WeatherData.cpp Observer/include/WeatherData.hpp)

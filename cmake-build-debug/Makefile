@@ -123,86 +123,86 @@ TE2_DatosII/fast:
 	$(MAKE) -f CMakeFiles/TE2_DatosII.dir/build.make CMakeFiles/TE2_DatosII.dir/build
 .PHONY : TE2_DatosII/fast
 
-main.o: main.cpp.o
+Observer/main.o: Observer/main.cpp.o
 
-.PHONY : main.o
-
-# target to build an object file
-main.cpp.o:
-	$(MAKE) -f CMakeFiles/TE2_DatosII.dir/build.make CMakeFiles/TE2_DatosII.dir/main.cpp.o
-.PHONY : main.cpp.o
-
-main.i: main.cpp.i
-
-.PHONY : main.i
-
-# target to preprocess a source file
-main.cpp.i:
-	$(MAKE) -f CMakeFiles/TE2_DatosII.dir/build.make CMakeFiles/TE2_DatosII.dir/main.cpp.i
-.PHONY : main.cpp.i
-
-main.s: main.cpp.s
-
-.PHONY : main.s
-
-# target to generate assembly for a file
-main.cpp.s:
-	$(MAKE) -f CMakeFiles/TE2_DatosII.dir/build.make CMakeFiles/TE2_DatosII.dir/main.cpp.s
-.PHONY : main.cpp.s
-
-src/Client.o: src/Client.cpp.o
-
-.PHONY : src/Client.o
+.PHONY : Observer/main.o
 
 # target to build an object file
-src/Client.cpp.o:
-	$(MAKE) -f CMakeFiles/TE2_DatosII.dir/build.make CMakeFiles/TE2_DatosII.dir/src/Client.cpp.o
-.PHONY : src/Client.cpp.o
+Observer/main.cpp.o:
+	$(MAKE) -f CMakeFiles/TE2_DatosII.dir/build.make CMakeFiles/TE2_DatosII.dir/Observer/main.cpp.o
+.PHONY : Observer/main.cpp.o
 
-src/Client.i: src/Client.cpp.i
+Observer/main.i: Observer/main.cpp.i
 
-.PHONY : src/Client.i
+.PHONY : Observer/main.i
 
 # target to preprocess a source file
-src/Client.cpp.i:
-	$(MAKE) -f CMakeFiles/TE2_DatosII.dir/build.make CMakeFiles/TE2_DatosII.dir/src/Client.cpp.i
-.PHONY : src/Client.cpp.i
+Observer/main.cpp.i:
+	$(MAKE) -f CMakeFiles/TE2_DatosII.dir/build.make CMakeFiles/TE2_DatosII.dir/Observer/main.cpp.i
+.PHONY : Observer/main.cpp.i
 
-src/Client.s: src/Client.cpp.s
+Observer/main.s: Observer/main.cpp.s
 
-.PHONY : src/Client.s
+.PHONY : Observer/main.s
 
 # target to generate assembly for a file
-src/Client.cpp.s:
-	$(MAKE) -f CMakeFiles/TE2_DatosII.dir/build.make CMakeFiles/TE2_DatosII.dir/src/Client.cpp.s
-.PHONY : src/Client.cpp.s
+Observer/main.cpp.s:
+	$(MAKE) -f CMakeFiles/TE2_DatosII.dir/build.make CMakeFiles/TE2_DatosII.dir/Observer/main.cpp.s
+.PHONY : Observer/main.cpp.s
 
-src/WeatherData.o: src/WeatherData.cpp.o
+Observer/src/Client.o: Observer/src/Client.cpp.o
 
-.PHONY : src/WeatherData.o
+.PHONY : Observer/src/Client.o
 
 # target to build an object file
-src/WeatherData.cpp.o:
-	$(MAKE) -f CMakeFiles/TE2_DatosII.dir/build.make CMakeFiles/TE2_DatosII.dir/src/WeatherData.cpp.o
-.PHONY : src/WeatherData.cpp.o
+Observer/src/Client.cpp.o:
+	$(MAKE) -f CMakeFiles/TE2_DatosII.dir/build.make CMakeFiles/TE2_DatosII.dir/Observer/src/Client.cpp.o
+.PHONY : Observer/src/Client.cpp.o
 
-src/WeatherData.i: src/WeatherData.cpp.i
+Observer/src/Client.i: Observer/src/Client.cpp.i
 
-.PHONY : src/WeatherData.i
+.PHONY : Observer/src/Client.i
 
 # target to preprocess a source file
-src/WeatherData.cpp.i:
-	$(MAKE) -f CMakeFiles/TE2_DatosII.dir/build.make CMakeFiles/TE2_DatosII.dir/src/WeatherData.cpp.i
-.PHONY : src/WeatherData.cpp.i
+Observer/src/Client.cpp.i:
+	$(MAKE) -f CMakeFiles/TE2_DatosII.dir/build.make CMakeFiles/TE2_DatosII.dir/Observer/src/Client.cpp.i
+.PHONY : Observer/src/Client.cpp.i
 
-src/WeatherData.s: src/WeatherData.cpp.s
+Observer/src/Client.s: Observer/src/Client.cpp.s
 
-.PHONY : src/WeatherData.s
+.PHONY : Observer/src/Client.s
 
 # target to generate assembly for a file
-src/WeatherData.cpp.s:
-	$(MAKE) -f CMakeFiles/TE2_DatosII.dir/build.make CMakeFiles/TE2_DatosII.dir/src/WeatherData.cpp.s
-.PHONY : src/WeatherData.cpp.s
+Observer/src/Client.cpp.s:
+	$(MAKE) -f CMakeFiles/TE2_DatosII.dir/build.make CMakeFiles/TE2_DatosII.dir/Observer/src/Client.cpp.s
+.PHONY : Observer/src/Client.cpp.s
+
+Observer/src/WeatherData.o: Observer/src/WeatherData.cpp.o
+
+.PHONY : Observer/src/WeatherData.o
+
+# target to build an object file
+Observer/src/WeatherData.cpp.o:
+	$(MAKE) -f CMakeFiles/TE2_DatosII.dir/build.make CMakeFiles/TE2_DatosII.dir/Observer/src/WeatherData.cpp.o
+.PHONY : Observer/src/WeatherData.cpp.o
+
+Observer/src/WeatherData.i: Observer/src/WeatherData.cpp.i
+
+.PHONY : Observer/src/WeatherData.i
+
+# target to preprocess a source file
+Observer/src/WeatherData.cpp.i:
+	$(MAKE) -f CMakeFiles/TE2_DatosII.dir/build.make CMakeFiles/TE2_DatosII.dir/Observer/src/WeatherData.cpp.i
+.PHONY : Observer/src/WeatherData.cpp.i
+
+Observer/src/WeatherData.s: Observer/src/WeatherData.cpp.s
+
+.PHONY : Observer/src/WeatherData.s
+
+# target to generate assembly for a file
+Observer/src/WeatherData.cpp.s:
+	$(MAKE) -f CMakeFiles/TE2_DatosII.dir/build.make CMakeFiles/TE2_DatosII.dir/Observer/src/WeatherData.cpp.s
+.PHONY : Observer/src/WeatherData.cpp.s
 
 # Help Target
 help:
@@ -213,15 +213,15 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... TE2_DatosII"
 	@echo "... edit_cache"
-	@echo "... main.o"
-	@echo "... main.i"
-	@echo "... main.s"
-	@echo "... src/Client.o"
-	@echo "... src/Client.i"
-	@echo "... src/Client.s"
-	@echo "... src/WeatherData.o"
-	@echo "... src/WeatherData.i"
-	@echo "... src/WeatherData.s"
+	@echo "... Observer/main.o"
+	@echo "... Observer/main.i"
+	@echo "... Observer/main.s"
+	@echo "... Observer/src/Client.o"
+	@echo "... Observer/src/Client.i"
+	@echo "... Observer/src/Client.s"
+	@echo "... Observer/src/WeatherData.o"
+	@echo "... Observer/src/WeatherData.i"
+	@echo "... Observer/src/WeatherData.s"
 .PHONY : help
 
 

@@ -57,57 +57,57 @@ include CMakeFiles/TE2_DatosII.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/TE2_DatosII.dir/flags.make
 
-CMakeFiles/TE2_DatosII.dir/main.cpp.o: CMakeFiles/TE2_DatosII.dir/flags.make
-CMakeFiles/TE2_DatosII.dir/main.cpp.o: ../main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/yendry/CLionProjects/TE2_DatosII/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/TE2_DatosII.dir/main.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/TE2_DatosII.dir/main.cpp.o -c /home/yendry/CLionProjects/TE2_DatosII/main.cpp
+CMakeFiles/TE2_DatosII.dir/Observer/main.cpp.o: CMakeFiles/TE2_DatosII.dir/flags.make
+CMakeFiles/TE2_DatosII.dir/Observer/main.cpp.o: ../Observer/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/yendry/CLionProjects/TE2_DatosII/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/TE2_DatosII.dir/Observer/main.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/TE2_DatosII.dir/Observer/main.cpp.o -c /home/yendry/CLionProjects/TE2_DatosII/Observer/main.cpp
 
-CMakeFiles/TE2_DatosII.dir/main.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/TE2_DatosII.dir/main.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/yendry/CLionProjects/TE2_DatosII/main.cpp > CMakeFiles/TE2_DatosII.dir/main.cpp.i
+CMakeFiles/TE2_DatosII.dir/Observer/main.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/TE2_DatosII.dir/Observer/main.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/yendry/CLionProjects/TE2_DatosII/Observer/main.cpp > CMakeFiles/TE2_DatosII.dir/Observer/main.cpp.i
 
-CMakeFiles/TE2_DatosII.dir/main.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/TE2_DatosII.dir/main.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/yendry/CLionProjects/TE2_DatosII/main.cpp -o CMakeFiles/TE2_DatosII.dir/main.cpp.s
+CMakeFiles/TE2_DatosII.dir/Observer/main.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/TE2_DatosII.dir/Observer/main.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/yendry/CLionProjects/TE2_DatosII/Observer/main.cpp -o CMakeFiles/TE2_DatosII.dir/Observer/main.cpp.s
 
-CMakeFiles/TE2_DatosII.dir/src/Client.cpp.o: CMakeFiles/TE2_DatosII.dir/flags.make
-CMakeFiles/TE2_DatosII.dir/src/Client.cpp.o: ../src/Client.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/yendry/CLionProjects/TE2_DatosII/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/TE2_DatosII.dir/src/Client.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/TE2_DatosII.dir/src/Client.cpp.o -c /home/yendry/CLionProjects/TE2_DatosII/src/Client.cpp
+CMakeFiles/TE2_DatosII.dir/Observer/src/Client.cpp.o: CMakeFiles/TE2_DatosII.dir/flags.make
+CMakeFiles/TE2_DatosII.dir/Observer/src/Client.cpp.o: ../Observer/src/Client.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/yendry/CLionProjects/TE2_DatosII/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/TE2_DatosII.dir/Observer/src/Client.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/TE2_DatosII.dir/Observer/src/Client.cpp.o -c /home/yendry/CLionProjects/TE2_DatosII/Observer/src/Client.cpp
 
-CMakeFiles/TE2_DatosII.dir/src/Client.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/TE2_DatosII.dir/src/Client.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/yendry/CLionProjects/TE2_DatosII/src/Client.cpp > CMakeFiles/TE2_DatosII.dir/src/Client.cpp.i
+CMakeFiles/TE2_DatosII.dir/Observer/src/Client.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/TE2_DatosII.dir/Observer/src/Client.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/yendry/CLionProjects/TE2_DatosII/Observer/src/Client.cpp > CMakeFiles/TE2_DatosII.dir/Observer/src/Client.cpp.i
 
-CMakeFiles/TE2_DatosII.dir/src/Client.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/TE2_DatosII.dir/src/Client.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/yendry/CLionProjects/TE2_DatosII/src/Client.cpp -o CMakeFiles/TE2_DatosII.dir/src/Client.cpp.s
+CMakeFiles/TE2_DatosII.dir/Observer/src/Client.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/TE2_DatosII.dir/Observer/src/Client.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/yendry/CLionProjects/TE2_DatosII/Observer/src/Client.cpp -o CMakeFiles/TE2_DatosII.dir/Observer/src/Client.cpp.s
 
-CMakeFiles/TE2_DatosII.dir/src/WeatherData.cpp.o: CMakeFiles/TE2_DatosII.dir/flags.make
-CMakeFiles/TE2_DatosII.dir/src/WeatherData.cpp.o: ../src/WeatherData.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/yendry/CLionProjects/TE2_DatosII/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/TE2_DatosII.dir/src/WeatherData.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/TE2_DatosII.dir/src/WeatherData.cpp.o -c /home/yendry/CLionProjects/TE2_DatosII/src/WeatherData.cpp
+CMakeFiles/TE2_DatosII.dir/Observer/src/WeatherData.cpp.o: CMakeFiles/TE2_DatosII.dir/flags.make
+CMakeFiles/TE2_DatosII.dir/Observer/src/WeatherData.cpp.o: ../Observer/src/WeatherData.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/yendry/CLionProjects/TE2_DatosII/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/TE2_DatosII.dir/Observer/src/WeatherData.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/TE2_DatosII.dir/Observer/src/WeatherData.cpp.o -c /home/yendry/CLionProjects/TE2_DatosII/Observer/src/WeatherData.cpp
 
-CMakeFiles/TE2_DatosII.dir/src/WeatherData.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/TE2_DatosII.dir/src/WeatherData.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/yendry/CLionProjects/TE2_DatosII/src/WeatherData.cpp > CMakeFiles/TE2_DatosII.dir/src/WeatherData.cpp.i
+CMakeFiles/TE2_DatosII.dir/Observer/src/WeatherData.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/TE2_DatosII.dir/Observer/src/WeatherData.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/yendry/CLionProjects/TE2_DatosII/Observer/src/WeatherData.cpp > CMakeFiles/TE2_DatosII.dir/Observer/src/WeatherData.cpp.i
 
-CMakeFiles/TE2_DatosII.dir/src/WeatherData.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/TE2_DatosII.dir/src/WeatherData.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/yendry/CLionProjects/TE2_DatosII/src/WeatherData.cpp -o CMakeFiles/TE2_DatosII.dir/src/WeatherData.cpp.s
+CMakeFiles/TE2_DatosII.dir/Observer/src/WeatherData.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/TE2_DatosII.dir/Observer/src/WeatherData.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/yendry/CLionProjects/TE2_DatosII/Observer/src/WeatherData.cpp -o CMakeFiles/TE2_DatosII.dir/Observer/src/WeatherData.cpp.s
 
 # Object files for target TE2_DatosII
 TE2_DatosII_OBJECTS = \
-"CMakeFiles/TE2_DatosII.dir/main.cpp.o" \
-"CMakeFiles/TE2_DatosII.dir/src/Client.cpp.o" \
-"CMakeFiles/TE2_DatosII.dir/src/WeatherData.cpp.o"
+"CMakeFiles/TE2_DatosII.dir/Observer/main.cpp.o" \
+"CMakeFiles/TE2_DatosII.dir/Observer/src/Client.cpp.o" \
+"CMakeFiles/TE2_DatosII.dir/Observer/src/WeatherData.cpp.o"
 
 # External object files for target TE2_DatosII
 TE2_DatosII_EXTERNAL_OBJECTS =
 
-TE2_DatosII: CMakeFiles/TE2_DatosII.dir/main.cpp.o
-TE2_DatosII: CMakeFiles/TE2_DatosII.dir/src/Client.cpp.o
-TE2_DatosII: CMakeFiles/TE2_DatosII.dir/src/WeatherData.cpp.o
+TE2_DatosII: CMakeFiles/TE2_DatosII.dir/Observer/main.cpp.o
+TE2_DatosII: CMakeFiles/TE2_DatosII.dir/Observer/src/Client.cpp.o
+TE2_DatosII: CMakeFiles/TE2_DatosII.dir/Observer/src/WeatherData.cpp.o
 TE2_DatosII: CMakeFiles/TE2_DatosII.dir/build.make
 TE2_DatosII: CMakeFiles/TE2_DatosII.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/yendry/CLionProjects/TE2_DatosII/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable TE2_DatosII"
