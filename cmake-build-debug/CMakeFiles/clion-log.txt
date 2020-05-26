@@ -1,4 +1,4 @@
-/home/yendry/Downloads/clion-2019.2/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/yendry/CLionProjects/TE2_DatosII
+/home/stevencm199/cLion/CLion-2020.1.1/clion-2020.1.1/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/stevencm199/CLionProjects/TE2-DatosII
 -- Configuring done
 -- Generating done
--- Build files have been written to: /home/yendry/CLionProjects/TE2_DatosII/cmake-build-debug
+-- Build files have been written to: /home/stevencm199/CLionProjects/TE2-DatosII/cmake-build-debug
